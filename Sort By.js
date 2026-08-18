@@ -3,6 +3,10 @@
  * @param {Function} fn
  * @return {Array}
  */
+// Runtime
+// 116 ms
+// Beats  32.46%
+
 //  It passed 35/36 test cases and failed the last due time limit
 // var sortBy = function (arr, fn) {
 //   let sortedArray = [],
